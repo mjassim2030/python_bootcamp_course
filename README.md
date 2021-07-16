@@ -6,7 +6,8 @@
 
 Don't forget to check the cheat sheet, it is a useful reference for looking up common functions and methods of python data structure. And much more!
 
-**DIYLab.com**
+**www.diyLab.com**
+
 **Eng. Mohammed J.**
 
 Thanks!
